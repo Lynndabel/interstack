@@ -50,7 +50,7 @@ SIP consists of multiple interrelated components:
 
 ```bash
 # Clone repository
-git clone https://github.com/lynndabel/interstac.git
+git clone https://github.com/lynndabel/interstackt.git
 cd stacks-interoperability-protocol
 
 # Install dependencies
