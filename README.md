@@ -56,7 +56,7 @@ cd stacks-interoperability-protocol
 # Install dependencies
 npm install
 
-# Run tests
+# Run tests 
 clarinet test
 ```
 
